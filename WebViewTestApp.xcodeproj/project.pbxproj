@@ -427,7 +427,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = KUVNCCM2T8;
+				DEVELOPMENT_TEAM = BB8Z57S5PW;
 				INFOPLIST_FILE = WebViewTestApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "i-pran.WebViewTestApp";
@@ -442,7 +442,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = KUVNCCM2T8;
+				DEVELOPMENT_TEAM = BB8Z57S5PW;
 				INFOPLIST_FILE = WebViewTestApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "i-pran.WebViewTestApp";
