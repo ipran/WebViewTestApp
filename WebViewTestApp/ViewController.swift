@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     }
 
     func loadUrl() {
-        openUrl = URL(string: "https://app.educationgalaxy.com/games/ipadgame.html?retries=3&name=blastoff&rocket=3&level=2&score=0&gameTimer=150")!
+        openUrl = URL(string: "https://www.apple.com/in/")!
         guard let url = openUrl else { return }
         webView = WKWebView()
         webView.navigationDelegate = self
